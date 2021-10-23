@@ -7,8 +7,8 @@ Requires the installation of the optofluidics Python package available at https:
 4CzIPN-SV-FINAL.ipynb
 
 ## H5PY Datafiles
--2021-07-26.h5 (4CzIPN with tBu Azide)
--2021-07-28.h5 (4CzIPN with CHA)
+- 2021-07-26.h5 (4CzIPN with tBu Azide)
+- 2021-07-28.h5 (4CzIPN with CHA)
 
 ## Matplotlib configuration file
 plotting_params.txt
